@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # car_rental_application
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# car_rent_application
+Find, book, and pay for cars in minutes with our app. Search vehicles by location, type, and price, track your rental in real-time, and manage your bookings from anywhere. Enjoy flexible options, exclusive offers, and seamless payments for a convenient and efficient car rental experience.
+>>>>>>> a9157ae69dfd1c26d0877b9a1efc5af941ecd25f
